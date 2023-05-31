@@ -11,3 +11,11 @@ https://drive.google.com/drive/folders/1KMubR2uZqiacWSHvKLl4MdXD8Yw4AqJZ?usp=sha
 ### If you use the code and dataset please cite the below paper
 Text representation for direction prediction of share market
 https://www.sciencedirect.com/science/article/pii/S0957417422015561
+
+Group members:
+
+Rahul Vansh : 202111035
+
+Kevin Jadia : 202111010
+
+Maulik Sarvaiya : 202111026
